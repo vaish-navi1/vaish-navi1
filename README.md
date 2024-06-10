@@ -1,4 +1,4 @@
-# vaishnavi
+# vaish-navi1
 
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center">I'm a dedicated AI and Data Science student with a strong enthusiasm for uncovering insights from data and applying machine learning to real-world problems.</h3>
