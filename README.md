@@ -4,15 +4,17 @@
 <h3 align="center">I'm a dedicated AI and Data Science student with a strong enthusiasm for uncovering insights from data and applying machine learning to real-world problems.</h3>
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
 
-- 🌱 I’m currently learning **AI, DataAnalyst, FrontEnd**
+ 🌱 I’m currently learning **AI, DataAnalyst, FrontEnd**
 
-- 🤝 I’m looking for help with **placements**
+ 🤝 I’m looking for help with **placements**
 
-- Linkedin Profile [www.linkedin.com/in/vaishnavi-ganesh22](www.linkedin.com/in/vaishnavi-ganesh22)
+ ⚡ Fun fact **I have a knack for making people laugh with my collection of funny jokes and puns! 😄**
 
-- 📫 How to reach me **vaishnaviganesh2206@gmail.com**
+ 📫 How to reach me **vaishnaviganesh2206@gmail.com**
+  
+  Linkedin Profile [www.linkedin.com/in/vaishnavi-ganesh22](www.linkedin.com/in/vaishnavi-ganesh22)
 
-- ⚡ Fun fact **I have a knack for making people laugh with my collection of funny jokes and puns! 😄**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
