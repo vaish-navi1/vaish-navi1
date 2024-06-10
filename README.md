@@ -6,6 +6,8 @@
 
  🤝 I’m looking for help with **placements**
 
+ 💼 I have a interest in Fullstack development and MERN(MongoDB, React, Node, Express)for web development. 
+
  ⚡ Fun fact **I have a knack for making people laugh with my collection of funny jokes and puns! 😄**
 
  📫 How to reach me **vaishnaviganesh2206@gmail.com**
