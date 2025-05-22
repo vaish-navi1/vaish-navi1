@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
-<h3 align="center">I'm a dedicated AI and Data Science student with a strong enthusiasm for uncovering insights from data and applying machine learning to real-world problems.</h3>
+<h3 align="center">I'm a dedicated and passionate learner in the field of AI and Data Science with a strong enthusiasm for uncovering insights from data and applying machine learning to real-world problems.</h3>
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
 
  🌱 I’m currently learning **AI, DataAnalytics, FullStack**
